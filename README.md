@@ -24,6 +24,7 @@ PWM Generator
 - The image of the coil can be seen in the figure below
 
 Renault Coil
+
 ![image](https://github.com/alymcu/Spark-Plug-Tester/assets/17362162/c663b73f-b4a3-4ecf-b5fa-af4ed3f20cba)
 
 - The input voltage of both boards is provided with a 12V 2A power supply
