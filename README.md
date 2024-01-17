@@ -14,6 +14,7 @@ PWM Generator
 - I applied the board input voltage of 12 volts
   
 - I connected the two output pulses of the pulse generator to the two inputs of the two channels of the board below
+4-Channel MOSFET Module
 ![image](https://github.com/alymcu/Spark-Plug-Tester/assets/17362162/2379051f-85d2-4763-a66e-26597f2910cb)
 - I put a 4001 diode in the output of the board, which unfortunately did not work, so it was connected to the output coil without a diode and there was no problem.
 - Continuity test was done for more than 1 hour at 500 Hz frequency with 20% pulse width and there was no problem
