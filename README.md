@@ -3,7 +3,7 @@
 Tested Conditions:
 500Hz - 20%      Transistors not getting warm
 300Hz - 20%      OK
-100Hz - 20%      Transistors Getting hot    for 5%, plugs getting spark
+100Hz - 20%      Transistors Getting hot but for 5%, plugs getting spark and not getting hot.
 
 The Parts i used are:
 
@@ -24,5 +24,5 @@ PWM Generator
 
 - The input voltage of both boards is provided with a 12V 2A power supply
 
-
+The figure below shows the initial test with a coil at a frequency of 200 Hz with a pulse width of 30%
 ![IMG_A08DB735E6F6-1](https://github.com/alymcu/Spark-Plug-Tester/assets/17362162/9b066943-5364-4dda-935a-bb6160bf6eb8)
