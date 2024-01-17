@@ -14,6 +14,7 @@ PWM Generator
 - I applied the board input voltage of 12 volts
   
 - I connected the two output pulses of the pulse generator to the two inputs of the two channels of the board below
+
 4-Channel MOSFET Module
 ![image](https://github.com/alymcu/Spark-Plug-Tester/assets/17362162/2379051f-85d2-4763-a66e-26597f2910cb)
 - I put a 4001 diode in the output of the board, which unfortunately did not work, so it was connected to the output coil without a diode and there was no problem.
@@ -21,9 +22,13 @@ PWM Generator
 - I used two Renault coils for testing
 
 - The image of the coil can be seen in the figure below
+
+Renault Coil
 ![image](https://github.com/alymcu/Spark-Plug-Tester/assets/17362162/c663b73f-b4a3-4ecf-b5fa-af4ed3f20cba)
 
 - The input voltage of both boards is provided with a 12V 2A power supply
 
-The figure below shows the initial test with a coil at a frequency of 200 Hz with a pulse width of 30%
+- The figure below shows the initial test with a coil at a frequency of 200 Hz with a pulse width of 30%
+
+Initial Test Photo
 ![IMG_A08DB735E6F6-1](https://github.com/alymcu/Spark-Plug-Tester/assets/17362162/9b066943-5364-4dda-935a-bb6160bf6eb8)
